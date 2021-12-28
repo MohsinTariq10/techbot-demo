@@ -1,2 +1,4 @@
-# techbot-demo
-This repo contains audio and video demo of techbot.
+# TechBot demo
+This repo contains demo samples for the Techbot voice assistant. Files includes
+1. Call recording for cab booking with Techbot.
+2. Screen recording for cab booking over facebook and whatsapp messegner.
